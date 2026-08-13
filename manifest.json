@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "updated": "2026-08-13",
   "minecraft": "1.21.1",
   "loader": "fabric",
@@ -45,6 +45,12 @@
       "file": "cloth-config-15.0.140-fabric.jar",
       "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/cloth-config-15.0.140-fabric.jar",
       "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+    },
+    {
+      "name": "continuity-3.0.0+1.21",
+      "file": "continuity-3.0.0+1.21.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13-3/continuity-3.0.0%2B1.21.jar",
+      "sha256": "99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4"
     },
     {
       "name": "CreativeCore_FABRIC_v2.13.39_mc1.21.1",
