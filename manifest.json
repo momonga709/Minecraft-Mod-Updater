@@ -1,13 +1,208 @@
 {
-  "revision": 1,
+  "revision": 2,
   "updated": "2026-08-13",
   "minecraft": "1.21.1",
   "loader": "fabric",
   "mods": [
     {
+      "name": "Ambient Sounds",
+      "file": "AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar"
+    },
+    {
+      "name": "AppleSkin",
+      "file": "appleskin-fabric-mc1.21-3.0.6.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/appleskin-fabric-mc1.21-3.0.6.jar"
+    },
+    {
+      "name": "Bobby",
+      "file": "bobby-5.2.4.1+mc1.21.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/bobby-5.2.4.1%2Bmc1.21.jar"
+    },
+    {
+      "name": "Chat Animation",
+      "file": "chatanimation-fabric-1.3.1+mc1.21.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/chatanimation-fabric-1.3.1%2Bmc1.21.jar"
+    },
+    {
+      "name": "Chat Heads",
+      "file": "chat_heads-0.15.6-fabric-1.21.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/chat_heads-0.15.6-fabric-1.21.jar"
+    },
+    {
+      "name": "Chunky",
+      "file": "Chunky-Fabric-1.4.23.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/Chunky-Fabric-1.4.23.jar"
+    },
+    {
+      "name": "Cloth Config",
+      "file": "cloth-config-15.0.140-fabric.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/cloth-config-15.0.140-fabric.jar"
+    },
+    {
+      "name": "CreativeCore",
+      "file": "CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar"
+    },
+    {
+      "name": "Dynamic FPS",
+      "file": "dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+    },
+    {
       "name": "Eating Animation",
       "file": "eating-animation-1.21+1.9.72.jar",
       "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/eating-animation-1.21%2B1.9.72.jar"
+    },
+    {
+      "name": "Enhanced Attack Indicator",
+      "file": "enhanced_attack_indicator-1.2.0+1.21.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/enhanced_attack_indicator-1.2.0%2B1.21.jar"
+    },
+    {
+      "name": "Entity Culling",
+      "file": "entityculling-fabric-1.10.5-mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/entityculling-fabric-1.10.5-mc1.21.1.jar"
+    },
+    {
+      "name": "Entity Model Features",
+      "file": "entity_model_features-3.2.4-1.21-fabric.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/entity_model_features-3.2.4-1.21-fabric.jar"
+    },
+    {
+      "name": "Entity Texture Features",
+      "file": "entity_texture_features_1.21-fabric-7.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/entity_texture_features_1.21-fabric-7.1.jar"
+    },
+    {
+      "name": "Fabric API",
+      "file": "fabric-api-0.116.15+1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/fabric-api-0.116.15%2B1.21.1.jar"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "file": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "file": "ferritecore-7.0.3-fabric.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/ferritecore-7.0.3-fabric.jar"
+    },
+    {
+      "name": "GeckoLib",
+      "file": "geckolib-fabric-1.21.1-4.9.2.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/geckolib-fabric-1.21.1-4.9.2.jar"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "file": "ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/ImmediatelyFast-Fabric-1.6.11%2B1.21.1.jar"
+    },
+    {
+      "name": "Iris",
+      "file": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar"
+    },
+    {
+      "name": "Krypton",
+      "file": "krypton-0.2.8.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/krypton-0.2.8.jar"
+    },
+    {
+      "name": "Language Reload",
+      "file": "language-reload-1.7.6+1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/language-reload-1.7.6%2B1.21.1.jar"
+    },
+    {
+      "name": "Library Ferret",
+      "file": "libraryferret-fabric-1.21.1-4.0.0.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/libraryferret-fabric-1.21.1-4.0.0.jar"
+    },
+    {
+      "name": "Lithium",
+      "file": "lithium-fabric-0.15.4+mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+    },
+    {
+      "name": "Locator Bar",
+      "file": "LocatorBar-fabric-1.2.2+1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/LocatorBar-fabric-1.2.2%2B1.21.1.jar"
+    },
+    {
+      "name": "ModernFix",
+      "file": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+    },
+    {
+      "name": "Mod Menu",
+      "file": "modmenu-11.0.4.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/modmenu-11.0.4.jar"
+    },
+    {
+      "name": "Not Enough Animations",
+      "file": "notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
+    },
+    {
+      "name": "Particle Rain",
+      "file": "particlerain-4.0.0-beta.10+1.21.1-fabric.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/particlerain-4.0.0-beta.10%2B1.21.1-fabric.jar"
+    },
+    {
+      "name": "Placeholder API",
+      "file": "placeholder-api-2.4.2+1.21.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/placeholder-api-2.4.2%2B1.21.jar"
+    },
+    {
+      "name": "3D Skin Layers",
+      "file": "skinlayers3d-fabric-1.11.2-mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/skinlayers3d-fabric-1.11.2-mc1.21.1.jar"
+    },
+    {
+      "name": "Sodium Extra",
+      "file": "sodium-extra-fabric-0.9.3+mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/sodium-extra-fabric-0.9.3%2Bmc1.21.1.jar"
+    },
+    {
+      "name": "Sodium",
+      "file": "sodium-fabric-0.8.13-beta.2+mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/sodium-fabric-0.8.13-beta.2%2Bmc1.21.1.jar"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "file": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
+    },
+    {
+      "name": "spark",
+      "file": "spark-1.10.109-fabric.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/spark-1.10.109-fabric.jar"
+    },
+    {
+      "name": "Visuality",
+      "file": "visuality-0.7.7+1.21.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/visuality-0.7.7%2B1.21.jar"
+    },
+    {
+      "name": "Simple Voice Chat",
+      "file": "voicechat-fabric-1.21.1-2.6.22.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/voicechat-fabric-1.21.1-2.6.22.jar"
+    },
+    {
+      "name": "YDM's Weapon Master",
+      "file": "weaponmaster_ydm-fabric-1.21.1-4.4.2.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/weaponmaster_ydm-fabric-1.21.1-4.4.2.jar"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "file": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
+    },
+    {
+      "name": "Zoomify",
+      "file": "zoomify-2.15.2+1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/zoomify-2.15.2%2B1.21.1.jar"
     }
   ]
 }
