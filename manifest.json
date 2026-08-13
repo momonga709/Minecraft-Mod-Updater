@@ -3,5 +3,11 @@
   "updated": "2026-08-13",
   "minecraft": "1.21.1",
   "loader": "fabric",
-  "mods": []
+  "mods": [
+    {
+      "name": "Eating Animation",
+      "file": "eating-animation-1.21+1.9.72.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/eating-animation-1.21%2B1.9.72.jar"
+    }
+  ]
 }
