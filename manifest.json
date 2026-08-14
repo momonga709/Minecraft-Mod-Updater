@@ -31,7 +31,7 @@
     {
       "name": "c2me-fabric-mc1.21.1-0.4.0-alpha.0.25",
       "file": "c2me-fabric-mc1.21.1-0.4.0-alpha.0.25.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-5/c2me-fabric-mc1.21.1-0.4.0-alpha.0.25.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-6/c2me-fabric-mc1.21.1-0.4.0-alpha.0.25.jar",
       "sha256": "5526ed025d6704de277acf5f904574e949682ccc925f185fef23fdc85862fc6d"
     },
     {
@@ -103,7 +103,7 @@
     {
       "name": "embeddium-1.0.15+mc1.21.1",
       "file": "embeddium-1.0.15+mc1.21.1.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-5/embeddium-1.0.15%2Bmc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-6/embeddium-1.0.15%2Bmc1.21.1.jar",
       "sha256": "3aac4c4c6e82d78d8dda4c611d68c672d1061b42bb6954331e3c2e7f14c451e1"
     },
     {
@@ -175,13 +175,13 @@
     {
       "name": "Incendium_1.21.x_v5.4.4",
       "file": "Incendium_1.21.x_v5.4.4.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-5/Incendium_1.21.x_v5.4.4.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-6/Incendium_1.21.x_v5.4.4.jar",
       "sha256": "285a4f69fe2391f2175f7fc9316d727a39c79bdd214923c59284d569bce656f4"
     },
     {
       "name": "incendium_translation_fix_1.21.x_1.0.5",
       "file": "incendium_translation_fix_1.21.x_1.0.5.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-5/incendium_translation_fix_1.21.x_1.0.5.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-6/incendium_translation_fix_1.21.x_1.0.5.jar",
       "sha256": "aea856086df2fbb5d237448fa6be601f7611eadd3176db45bfd37b10de0ac283"
     },
     {
@@ -247,7 +247,7 @@
     {
       "name": "Nullscape_1.21.x_v1.2.14",
       "file": "Nullscape_1.21.x_v1.2.14.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-5/Nullscape_1.21.x_v1.2.14.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-6/Nullscape_1.21.x_v1.2.14.jar",
       "sha256": "8749c6fdda659335e50116c18e012cdf8699b3789859c82559af2c6f425c93ae"
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "ScalableLux-fabric-0.3.0-alpha.0.5-all",
       "file": "ScalableLux-fabric-0.3.0-alpha.0.5-all.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-5/ScalableLux-fabric-0.3.0-alpha.0.5-all.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-6/ScalableLux-fabric-0.3.0-alpha.0.5-all.jar",
       "sha256": "0a2fa32f128278bb660c33556a055c43b040be9f151314dd217d7ee0f8889eee"
     },
     {
@@ -289,7 +289,7 @@
     {
       "name": "sodium-fabric-0.8.12+mc1.21.1",
       "file": "sodium-fabric-0.8.12+mc1.21.1.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-5/sodium-fabric-0.8.12%2Bmc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-6/sodium-fabric-0.8.12%2Bmc1.21.1.jar",
       "sha256": "9ad11a616d1ca759867de8a5bbafcde5ab50b68dbd674110c7b90aeea251b793"
     },
     {
