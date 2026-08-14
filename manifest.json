@@ -1,5 +1,5 @@
 {
-  "revision": 4,
+  "revision": 5,
   "updated": "2026-08-14",
   "minecraft": "1.21.1",
   "loader": "fabric",
@@ -45,6 +45,12 @@
       "file": "bobby-5.2.4.1+mc1.21.jar",
       "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/bobby-5.2.4.1%2Bmc1.21.jar",
       "sha256": "06db885914f6a4153ec2351e7b5485c984b2ba39ef2e06e867263734eda3796a"
+    },
+    {
+      "name": "Camerapture-1.10.12+mc1.21.1-fabric",
+      "file": "Camerapture-1.10.12+mc1.21.1-fabric.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-3/Camerapture-1.10.12%2Bmc1.21.1-fabric.jar",
+      "sha256": "54e87ca8d809ed7bdecad5c476233f606b666fb7dc83b1a678071c41cff7ceda"
     },
     {
       "name": "chat_heads-0.15.6-fabric-1.21",
