@@ -1,6 +1,6 @@
 {
-  "revision": 7,
-  "updated": "2026-08-16",
+  "revision": 8,
+  "updated": "2026-08-17",
   "minecraft": "1.21.1",
   "loader": "fabric",
   "mods": [
@@ -239,10 +239,10 @@
       "sha256": "fed24701279ed7d55ea9e1bce9d4528e3f679ef9883c1ab7fb7a8c6a3fcd2915"
     },
     {
-      "name": "Mineralia-0.3.10-server-ready+mc1.21.1",
-      "file": "Mineralia-0.3.10-server-ready+mc1.21.1.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-16/Mineralia-0.3.10-server-ready%2Bmc1.21.1.jar",
-      "sha256": "6db10deba688d22504ad147ae1ffb4d4d8a9a099e6d2c06bcfa95a3052b61f0b"
+      "name": "Mineralia-0.3.12-server-ready+mc1.21.1",
+      "file": "Mineralia-0.3.12-server-ready+mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-17/Mineralia-0.3.12-server-ready%2Bmc1.21.1.jar",
+      "sha256": "7e9067267a0a1b667df7332242ba266538c87e894126f48101facacb59013037"
     },
     {
       "name": "modernfix-fabric-5.25.1+mc1.21.1",
