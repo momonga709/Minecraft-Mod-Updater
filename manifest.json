@@ -1,6 +1,6 @@
 {
-  "revision": 9,
-  "updated": "2026-08-17",
+  "revision": 10,
+  "updated": "2026-08-19",
   "minecraft": "1.21.1",
   "loader": "fabric",
   "mods": [
@@ -155,6 +155,12 @@
       "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
     },
     {
+      "name": "freecam-fabric-1.3.0+mc1.21",
+      "file": "freecam-fabric-1.3.0+mc1.21.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-19/freecam-fabric-1.3.0%2Bmc1.21.jar",
+      "sha256": "5232a3b226ec38b576fda8b9a1f7cae2ba4d762c7235e69855ca8c58b853b0a8"
+    },
+    {
       "name": "fusion-1.3.12-fabric-mc1.21",
       "file": "fusion-1.3.12-fabric-mc1.21.jar",
       "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-14-2/fusion-1.3.12-fabric-mc1.21.jar",
@@ -239,10 +245,10 @@
       "sha256": "fed24701279ed7d55ea9e1bce9d4528e3f679ef9883c1ab7fb7a8c6a3fcd2915"
     },
     {
-      "name": "Mineralia-0.3.14-hotfix1+mc1.21.1",
-      "file": "Mineralia-0.3.14-hotfix1+mc1.21.1.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-17-2/Mineralia-0.3.14-hotfix1%2Bmc1.21.1.jar",
-      "sha256": "7cb0a6d7f2fda0c5151669cb40fbff2bf4d0e9b82be7ee504c433be3ce3bbc56"
+      "name": "Mineralia-0.3.15-server-ready+mc1.21.1",
+      "file": "Mineralia-0.3.15-server-ready+mc1.21.1.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-19/Mineralia-0.3.15-server-ready%2Bmc1.21.1.jar",
+      "sha256": "29d071d26a3040708b93dd7be98d54e6d75100b4a7f7e782ea45ea0339e6cc2d"
     },
     {
       "name": "modernfix-fabric-5.25.1+mc1.21.1",
