@@ -1,5 +1,5 @@
 {
-  "revision": 11,
+  "revision": 12,
   "updated": "2026-08-22",
   "minecraft": "1.21.1",
   "loader": "fabric",
@@ -329,10 +329,10 @@
       "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
     },
     {
-      "name": "specialweatherclient-0.2.7",
-      "file": "specialweatherclient-0.2.7.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-22/specialweatherclient-0.2.7.jar",
-      "sha256": "953adeacf2b14cbe1d18d8968e508cca96eeabbad6e18e427876d36be37cd2a7"
+      "name": "specialweatherclient-0.2.12",
+      "file": "specialweatherclient-0.2.12.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-22-2/specialweatherclient-0.2.12.jar",
+      "sha256": "c273459b2a8529f6e3de29b7eaf90960641a42914e13a6f53a6aa539573da556"
     },
     {
       "name": "supermartijn642corelib-1.1.24-fabric-mc1.21",
