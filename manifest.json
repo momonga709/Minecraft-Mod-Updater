@@ -1,6 +1,6 @@
 {
-  "revision": 14,
-  "updated": "2026-08-23",
+  "revision": 15,
+  "updated": "2026-08-25",
   "minecraft": "1.21.1",
   "loader": "fabric",
   "mods": [
@@ -81,12 +81,6 @@
       "file": "CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
       "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
       "sha256": "a0813d3b342fae016eaad9b11a3f153efba01a2caa1221033adb865c49140f70"
-    },
-    {
-      "name": "dailyblessings-0.1.8-servercandidate",
-      "file": "dailyblessings-0.1.8-servercandidate.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-22-4/dailyblessings-0.1.8-servercandidate.jar",
-      "sha256": "d017c04551ceb725f559be43840c46d28ad9b42bfb99e18edef78179ccf8fbb5"
     },
     {
       "name": "dungeons-and-taverns-stronghold-overhaul-v2.1.f",
@@ -251,12 +245,6 @@
       "sha256": "fed24701279ed7d55ea9e1bce9d4528e3f679ef9883c1ab7fb7a8c6a3fcd2915"
     },
     {
-      "name": "Mineralia-0.3.15-server-ready+mc1.21.1",
-      "file": "Mineralia-0.3.15-server-ready+mc1.21.1.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-19/Mineralia-0.3.15-server-ready%2Bmc1.21.1.jar",
-      "sha256": "29d071d26a3040708b93dd7be98d54e6d75100b4a7f7e782ea45ea0339e6cc2d"
-    },
-    {
       "name": "modernfix-fabric-5.25.1+mc1.21.1",
       "file": "modernfix-fabric-5.25.1+mc1.21.1.jar",
       "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
@@ -291,6 +279,12 @@
       "file": "placeholder-api-2.4.2+1.21.jar",
       "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/placeholder-api-2.4.2%2B1.21.jar",
       "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443"
+    },
+    {
+      "name": "projecta-0.1.7-alpha-hotfix3",
+      "file": "projecta-0.1.7-alpha-hotfix3.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-25/projecta-0.1.7-alpha-hotfix3.jar",
+      "sha256": "e4c1968c098e0cefd0d5dcb4f36b5b1a147e1389604be00d8b83a0ca595feee0"
     },
     {
       "name": "PuzzlesLib-v21.1.52-1.21.1-Fabric",
@@ -333,12 +327,6 @@
       "file": "spark-1.10.109-fabric.jar",
       "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-13/spark-1.10.109-fabric.jar",
       "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
-    },
-    {
-      "name": "specialweatherclient-0.2.15",
-      "file": "specialweatherclient-0.2.15.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-23/specialweatherclient-0.2.15.jar",
-      "sha256": "c590ef0da15d3737c2bd5f77c4f46e40264f1041016fd3f75512a344cee8e4eb"
     },
     {
       "name": "supermartijn642corelib-1.1.24-fabric-mc1.21",
