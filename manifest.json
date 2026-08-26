@@ -1,6 +1,6 @@
 {
-  "revision": 15,
-  "updated": "2026-08-25",
+  "revision": 16,
+  "updated": "2026-08-26",
   "minecraft": "1.21.1",
   "loader": "fabric",
   "mods": [
@@ -281,10 +281,10 @@
       "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443"
     },
     {
-      "name": "projecta-0.1.7-alpha-hotfix3",
-      "file": "projecta-0.1.7-alpha-hotfix3.jar",
-      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-25/projecta-0.1.7-alpha-hotfix3.jar",
-      "sha256": "e4c1968c098e0cefd0d5dcb4f36b5b1a147e1389604be00d8b83a0ca595feee0"
+      "name": "projecta-0.1.7-alpha-hotfix5",
+      "file": "projecta-0.1.7-alpha-hotfix5.jar",
+      "url": "https://github.com/momonga709/Minecraft-Mod-Updater/releases/download/mods-2026-08-26/projecta-0.1.7-alpha-hotfix5.jar",
+      "sha256": "413454492721274321eb176e8fb8d969aa30904c77a0b3b3a7d906a69cfa17f7"
     },
     {
       "name": "PuzzlesLib-v21.1.52-1.21.1-Fabric",
